@@ -1,8 +1,8 @@
 # Projet CRUD PHP
 
-     ![Ajouter un employé](images/ajout.jpg)
-![Exécution du projet](images/images.jpg)
+     ![Exécution du projet](images/images.jpg)
      ![Liste des employés](images/crud.jpg)
+     ![Ajouter un employé](images/ajout.jpg)
 
 ## Exécution du projet
 
